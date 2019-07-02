@@ -2,7 +2,7 @@
 title: "R Exercises Session 8"
 author: "Introduction to R for Data Management and Analysis"
 author: "Marwan Hamed"
-date: "Thursday, June 28, 2018"
+date: "Thursday, June 27, 2018"
 output: word_document
 ---
 @@ -11,22 +11,53 @@ knitr::opts_chunk$set(echo = TRUE)
@@ -58,4 +58,3 @@ summary(circumference.lm)
 RMarkdown document into a Word document (make sure that the document 'knits').
 First clone the `CUNYSPHcode/IntroR_FinalAssignment` onto your GitHub account.
 Then, create a pull request on GitHub with the **modified** RMarkdown file. 
-
