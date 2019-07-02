@@ -44,6 +44,7 @@ linear regression using the `lm` function to predict `circumference` from `age`
 and assign the result. Show the `summary` of the fit object that you assigned. 
 
 ```
+{r}
 data("Orange")
 summary(Orange)
 circumference.lm <- lm(circumference ~ age, data = Orange)
